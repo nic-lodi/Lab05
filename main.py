@@ -2,7 +2,7 @@ import flet as ft
 from alert import AlertManager
 from deposito_strumenti import DepositoStrumenti
 
-FILE_STRUMENTI = "/workspaces/Lab05/strumenti.csv"
+FILE_STRUMENTI = "strumenti.csv"
 
 def main(page: ft.Page):
     page.title = "Lab05"
